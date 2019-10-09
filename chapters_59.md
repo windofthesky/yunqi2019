@@ -1,0 +1,1 @@
+#云栖时间 - 顶级CNCF项目修炼之旅标签：<kbd>None</kbd> <kbd>None</kbd><br>回播地址：[点击跳转观看视频]()本专题CNCF CTO Chris Aniszczyk分享云原生计算的行业态势，深入浅出讲述开源社区开放容器计划以及未来的容器各类标准和发展，共同分享如今业界都为践行云原生都做了哪些努力。#### 顶级CNCF项目修炼之旅* Chris Aniszczyk* CTO/COO, Cloud Native Computing Foundation* 如何打造优秀的Apache顶级项目，以及项目孵化过程会遇到的难点和挑战。
